@@ -6,7 +6,7 @@
 
 1. Place the images you want to have square dimensions into the _**"images/unformatted"**_ directory
    - Only use .png or .jpg/.jpeg image files
-2. Run the **script.js** file from Node
+2. Run the **squarify.js** file from Node
 3. Your formatted images will be output into the _**"images/formatted"**_ directory
 
 ### Examples
