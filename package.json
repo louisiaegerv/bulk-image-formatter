@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "image-size": "^1.0.0"
+  }
+}
